@@ -1,4 +1,5 @@
 # Road Accident Severity Prediction Using Machine Learning
+<img width="971" height="1217" alt="image" src="https://github.com/user-attachments/assets/56d0ebbd-f5b1-438a-a360-888a9e2c7a0a" />
 
 ## Project Overview
 This project was developed as part of a **Data Science Bootcamp**. It aims to analyze road accident data and predict accident severity using machine learning. The project explores how different factors, such as weather conditions, road types, speed limits, and time of day, relate to accident severity.
