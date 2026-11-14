@@ -1,4 +1,4 @@
-# Road Accident Severity Prediction Using Machine Learning
+# Car Accident Analysis
 <img width="971" height="1217" alt="image" src="https://github.com/user-attachments/assets/56d0ebbd-f5b1-438a-a360-888a9e2c7a0a" />
 
 ## Project Overview
